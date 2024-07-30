@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sentence-transformers
+PyMuPDF
+opencv-python
+numpy
+scikit-image
