@@ -41,7 +41,7 @@ export const compareInvoice = async (file) => {
     formData.append('file', file);
 
     if(!formData){
-     // toast.message("hi")
+      toast.error("Kindly Upload PDF")
       return ;
     }
   
@@ -57,6 +57,6 @@ export const compareInvoice = async (file) => {
     return  (await response).json();
 
   } catch (error) {
-   // toast.error('Error')
+    toast.error('Error')
   }
 };
