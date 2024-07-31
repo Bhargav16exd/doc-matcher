@@ -177,6 +177,10 @@ Both endpoints provide appropriate error messages and status codes in case of fa
 }
 ```
 
+### Final Output 
+Providing the documents it returns the similarity score of the most matched document and the document name which is similar
+
+<img width="1512" alt="Screenshot 2024-07-31 at 11 22 38 AM" src="https://github.com/user-attachments/assets/bf8f874a-540d-43cf-bad6-6a06cab5e98e">
 
 
 
