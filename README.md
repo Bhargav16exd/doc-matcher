@@ -132,7 +132,7 @@ curl -X POST "http://localhost:8000/upload" \
   - `Content-Type: multipart/form-data`
 
 - **Body:**
-  - `file`: he invoice document file to be compared.
+  - `file`: invoice document file to be compared.
 
 **Response:**
 
